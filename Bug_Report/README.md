@@ -22,7 +22,7 @@
 
 | ID | 결함 명칭 (Issue Summary) | 심각도 | 우선순위 | 플랫폼 | 상태 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [BUG-001](./Bug_Report/BUG_001.md) | 컨트롤러 조작 중 네트워크 전환 시 프리징 현상 | Critical | P1 | AOS | Open |
+| [BUG-001](/.Bug_Report/BUG-001.md) | 컨트롤러 조작 중 네트워크 전환 시 프리징 현상 | Critical | P1 | AOS | Open |
 | [BUG-002](./BUG_002.md) | 빙결사 '빙류환' 시전 중 특정 지형에서 컷신 미출력 | Major | P2 | PC | Resolved |
 
 ---
