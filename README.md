@@ -66,3 +66,16 @@
 * **테스트 실행 결과 보고서:** 실행 결과(Pass/Fail), 결함 추적 ID 및 심각도.
 * **결함 보고서:** 상세 재현 단계, 스크린샷/로그가 포함된 JIRA 연동 문서.
 * **플랫폼 비교 분석표:** PC vs Mobile 조작성 및 UI 가시성 비교 데이터.
+---
+
+## 7. 테스트 산출물 및 관리 (Artifacts & Management)
+
+본 프로젝트의 상세 데이터는 아래의 디렉토리 구조에 따라 관리되고 있습니다.
+
+```text
+📂 DNF-M_QA_Project
+ ┣ 📂 01_Analysis          # 기획서 분석 및 테스트 전략 수립
+ ┣ 📂 02_Test_Case         # 플랫폼별/기능별 상세 TC (Excel/Sheet)
+ ┣ 📂 03_Bug_Report        # 결함 보고서 및 재현 경로 (Jira 기반)
+ ┣ 📂 04_Evidence          # 결함 증거 자료 (스크린샷/영상/로그)
+ ┗ 📂 05_Automation        # 반복 테스트 자동화 스크립트 (Appium/Python)
