@@ -30,8 +30,8 @@
 | 검증 플랫폼 | 중점 검증 내용 | 사용 도구 및 환경 |
 | :--- | :--- | :--- |
 | **Mobile (S24)** | 발열에 따른 프레임 유지, 터치 조작 반응성, 핸드오버(Wi-Fi <-> LTE) | 전용 프로파일러, S24 기본 환경 |
-| **Controller** | 블루투스 연결 안정성, 스킬 캔슬(Cancel) 연계 시 입력 유실 여부 | Xbox Wireless Controller |
-| **PC (Beta)** | 키보드 맵핑 정합성, 대화면 해상도(4K) UI 레이아웃 깨짐 확인 | Windows 환경 |
+| **Controller** | 블루투스 연결 안정성, 스킬 캔슬(Cancel) 연계 시 입력 유실 여부 | 8BitDo Micro Gamepad |
+| **PC (Beta)** | 키보드 맵핑 정합성, 대화면 해상도(4K) UI 레이아웃 깨짐 확인 | Windows 11 환경 |
 
 ---
 
