@@ -45,8 +45,8 @@
 
 ## 🛠 사용 환경 및 도구
 * **Device:** Galaxy S24 (Android 14), PC (Windows 11)
-* **Controller:** Xbox Wireless Controller (Bluetooth)
-* **Documentation:** Markdown, GitHub, Excel
+* **Controller:** 8BitDo Mirco Gamepad (Bluetooth)
+* **Documentation:** Markdown, GitHub
 
 ---
 
