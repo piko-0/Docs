@@ -33,7 +33,7 @@
 
 ## 🔗 관련 문서 링크
 * [전체 QA 계획서 확인하기](../QA_Plan.md)
-* [55종의 상세 테스트 케이스 보기](../Test_Case.md)
+* [55종의 상세 테스트 케이스 보기](../Test_Case/README.md)
 
 ---
 [👈 메인 README로 돌아가기](../README.md)
