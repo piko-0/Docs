@@ -74,8 +74,8 @@
 
 ```text
 📂 DNF-M_QA_Project
- ┣ 📂 01_Analysis          # 기획서 분석 및 테스트 전략 수립
- ┣ 📂 02_Test_Case         # 플랫폼별/기능별 상세 TC (Excel/Sheet)
- ┣ 📂 03_Bug_Report        # 결함 보고서 및 재현 경로 (Jira 기반)
- ┣ 📂 04_Evidence          # 결함 증거 자료 (스크린샷/영상/로그)
- ┗ 📂 05_Automation        # 반복 테스트 자동화 스크립트 (Appium/Python)
+ ┣ 📂 [Analysis](./Analysis)          # 기획서 분석 및 테스트 전략 수립
+ ┣ 📂 [Test_Case]         # 플랫폼별/기능별 상세 TC (Excel/Sheet)
+ ┣ 📂 [Bug_Report]        # 결함 보고서 및 재현 경로 (Jira 기반)
+ ┣ 📂 [Evidence]          # 결함 증거 자료 (스크린샷/영상/로그)
+ ┗ 📂 [Automation]        # 반복 테스트 자동화 스크립트 (Appium/Python)
