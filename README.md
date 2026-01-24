@@ -70,12 +70,12 @@
 
 ## 7. 테스트 산출물 및 관리 (Artifacts & Management)
 
-본 프로젝트의 상세 데이터는 아래의 디렉토리 구조에 따라 관리되고 있습니다.
+본 프로젝트의 상세 데이터는 아래의 디렉토리 구조를 통해 확인하실 수 있습니다. (클릭 시 해당 폴더로 이동)
 
-```text
-📂 DNF-M_QA_Project
- ┣ 📂 [Analysis](./Analysis)          # 기획서 분석 및 테스트 전략 수립
- ┣ 📂 [Test_Case]         # 플랫폼별/기능별 상세 TC (Excel/Sheet)
- ┣ 📂 [Bug_Report]        # 결함 보고서 및 재현 경로 (Jira 기반)
- ┣ 📂 [Evidence]          # 결함 증거 자료 (스크린샷/영상/로그)
- ┗ 📂 [Automation]        # 반복 테스트 자동화 스크립트 (Appium/Python)
+* 📂 [Analysis](./Analysis) : 기획 사양 분석 및 테스트 전략 수립 서류
+* 📂 [Test_Case](./Test_Case) : 남마법사 스킬/환경별 상세 검증 시나리오 (Excel)
+* 📂 [Bug_Report](./Bug_Report) : 결함 보고서 및 재현 경로 (Jira Format)
+* 📂 [Evidence](./Evidence) : 결함 증거 자료 (ScreenShot / Video / Log)
+* 📂 [Automation](./Automation) : Appium 기반 반복 테스트 자동화 스크립트
+
+---
