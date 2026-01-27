@@ -4,15 +4,16 @@
 
 ## 2026-01-26
 ### ➕ Added (추가)
-- `Automation` 폴더 추가: Appium 기반 스킬 반복 테스트 설계 (Draft) 코드 작성.
+- `Automation` 폴더 추가: Appium 기반 스킬 반복 테스트 설계 예시 작성.
 - `Analysis` 폴더 내 '이기종 기기 비교 검증' 전략 상세화.
-
 ### 🔄 Updated (변경/보완)
 - `README.md`: 프로젝트 구조 시각화 및 폴더 바로가기 링크 최적화.
 
 ---
 
 ## 2026-01-25
+### ➕ Added (추가)
+- `Bug_Report` : 빙결사의 방어구 마스터리 버그 발견 및 버그 리포트 작성.
 ### 🔄 Updated (변경/보완)
 - `Test_Case`: PC환경에서 진행 가능한 TC 수행 완료.
 - `Bug_Report`: 결함 보고서 서식을 Jira 표준 양식으로 통일.
