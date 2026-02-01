@@ -21,7 +21,7 @@
 | ID | 결함 명칭 (Issue Summary) | 심각도 | 우선순위 | 플랫폼 | 상태 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | BUG-001 | [빙결사의 방어구 마스터리] 스탯 계수 오류 | Major | P1 | AOS&PC | **Resolved** |
-| BUG-002 | ['헤일스톰' 추가 타격 판정 소] | Major | P1 | AOS&PC | **Resolved** |
+| BUG-002 | ['헤일스톰' 추가 타격 판정 소실] | Major | P1 | AOS&PC | **Resolved** |
 
 ---
 [👈 메인 README로 돌아가기](../README.md)
