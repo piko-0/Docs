@@ -53,7 +53,7 @@
 ## 6. 저장소 구조 및 관리 (Artifacts & Management)
 
 * 📂 [Analysis](./Analysis) : 기획 사양 분석 및 테스트 전략 수립 서류
-* 📂 [Test_Case](./Test_Case) : 44종의 남마법사 스킬/환경별 상세 검증 시나리오
+* 📂 [Test_Case](./Test_Case) : 45종의 남마법사 스킬/환경별 상세 검증 시나리오
 * 📂 [Bug_Report](./Bug_Report) : 주요 결함 보고서 및 재현 경로 (Jira Format)
 * 📂 [Evidence](./Evidence) : 결함 증거 자료 (S24 스크린샷 / 영상 / 로그)
 * 📂 [Automation](./Automation) : 반복 스킬 시전 및 로딩 성능 측정 자동화 스크립트
