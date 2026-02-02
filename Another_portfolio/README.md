@@ -8,8 +8,11 @@
 * **문서 확인**: [BlueArchive_System_Analysis.pdf](./BlueArchive_System_Analysis.pdf)
 
 ## 2. 서사형 2D 플랫포머 프로토타입
-* **작업 내용**: 팀 프로젝트 발표 이후, 기획 내용을 바탕으로 직접 1인 구현까지 완료한 프로토타입
-* **구성 자료**: 핵심 로직 및 서사 연출 기능 검증 영상
+* **작업 내용**: 팀 프로젝트 기획안을 바탕으로 직접 1인 구현 및 기능 검증 완료
+* **활용 에셋**: 
+    * [심플 2D 플랫포머 에셋 팩](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518) 기반 캐릭터 및 맵 구성
+    * [탑다운 2D RPG 에셋 팩](https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-188718) 기반 NPC 상호작용 시스템 구축
+    
 * **영상 재생**: [Prototype_play.mp4](./Prototype_play.mp4)
 
 ## 🛠 주요 구현 기술 (Core Logic)
